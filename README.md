@@ -9,6 +9,7 @@ A Demo show simple use of NEHotspotHelper.
 ## Requirements
 
 - iOS 9.0+
+- NetworkExtension
 
 ## Author
 
