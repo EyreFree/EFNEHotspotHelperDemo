@@ -1,6 +1,6 @@
 # EFNEHotspotHelperDemo
 
-A Demo show simple use of NEHotspotHelper.
+A demo show simple use of NEHotspotHelper.
 
 ## Overview
 
