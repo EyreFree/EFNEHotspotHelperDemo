@@ -11,6 +11,10 @@ A demo show simple use of NEHotspotHelper.
 - iOS 9.0+
 - NetworkExtension
 
+## Introduction
+
+[https://www.eyrefree.org/2017/03/09/2017-03-09-NEHotspotHelper/](https://www.eyrefree.org/2017/03/09/2017-03-09-NEHotspotHelper/)
+
 ## Author
 
 EyreFree, eyrefree@eyrefree.org
