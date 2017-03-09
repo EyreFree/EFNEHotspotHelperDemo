@@ -7,88 +7,88 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		12E9154E1E70266F008B295B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 12E9154D1E70266F008B295B /* main.m */; };
-		12E915511E70266F008B295B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 12E915501E70266F008B295B /* AppDelegate.m */; };
-		12E915541E70266F008B295B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12E915531E70266F008B295B /* ViewController.m */; };
-		12E915571E70266F008B295B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12E915551E70266F008B295B /* Main.storyboard */; };
-		12E915591E70266F008B295B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12E915581E70266F008B295B /* Assets.xcassets */; };
-		12E9155C1E70266F008B295B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12E9155A1E70266F008B295B /* LaunchScreen.storyboard */; };
-		12E915691E702D71008B295B /* ExternalAccessory.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 12E915681E702D71008B295B /* ExternalAccessory.framework */; };
+		12E915781E702F5C008B295B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 12E915771E702F5C008B295B /* main.m */; };
+		12E9157B1E702F5C008B295B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 12E9157A1E702F5C008B295B /* AppDelegate.m */; };
+		12E9157E1E702F5C008B295B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12E9157D1E702F5C008B295B /* ViewController.m */; };
+		12E915811E702F5C008B295B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12E9157F1E702F5C008B295B /* Main.storyboard */; };
+		12E915831E702F5C008B295B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12E915821E702F5C008B295B /* Assets.xcassets */; };
+		12E915861E702F5C008B295B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12E915841E702F5C008B295B /* LaunchScreen.storyboard */; };
+		12E9158F1E703009008B295B /* ExternalAccessory.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 12E9158E1E703009008B295B /* ExternalAccessory.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		12E915491E70266F008B295B /* EFNEHotspotHelperDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EFNEHotspotHelperDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		12E9154D1E70266F008B295B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		12E9154F1E70266F008B295B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		12E915501E70266F008B295B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		12E915521E70266F008B295B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		12E915531E70266F008B295B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		12E915561E70266F008B295B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		12E915581E70266F008B295B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		12E9155B1E70266F008B295B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		12E9155D1E70266F008B295B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		12E915671E7027CB008B295B /* EFNEHotspotHelperDemo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EFNEHotspotHelperDemo.entitlements; sourceTree = "<group>"; };
-		12E915681E702D71008B295B /* ExternalAccessory.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ExternalAccessory.framework; path = System/Library/Frameworks/ExternalAccessory.framework; sourceTree = SDKROOT; };
+		12E915731E702F5C008B295B /* EFNEHotspotHelperDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EFNEHotspotHelperDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		12E915771E702F5C008B295B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		12E915791E702F5C008B295B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		12E9157A1E702F5C008B295B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		12E9157C1E702F5C008B295B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		12E9157D1E702F5C008B295B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		12E915801E702F5C008B295B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		12E915821E702F5C008B295B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		12E915851E702F5C008B295B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		12E915871E702F5C008B295B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		12E9158E1E703009008B295B /* ExternalAccessory.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ExternalAccessory.framework; path = System/Library/Frameworks/ExternalAccessory.framework; sourceTree = SDKROOT; };
+		12E915901E703009008B295B /* EFNEHotspotHelperDemo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EFNEHotspotHelperDemo.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		12E915461E70266F008B295B /* Frameworks */ = {
+		12E915701E702F5C008B295B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12E915691E702D71008B295B /* ExternalAccessory.framework in Frameworks */,
+				12E9158F1E703009008B295B /* ExternalAccessory.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		12E915401E70266F008B295B = {
+		12E9156A1E702F5C008B295B = {
 			isa = PBXGroup;
 			children = (
-				12E9154B1E70266F008B295B /* EFNEHotspotHelperDemo */,
-				12E9154A1E70266F008B295B /* Products */,
-				12E915631E70269B008B295B /* Frameworks */,
+				12E915751E702F5C008B295B /* EFNEHotspotHelperDemo */,
+				12E915741E702F5C008B295B /* Products */,
+				12E9158D1E703009008B295B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		12E9154A1E70266F008B295B /* Products */ = {
+		12E915741E702F5C008B295B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				12E915491E70266F008B295B /* EFNEHotspotHelperDemo.app */,
+				12E915731E702F5C008B295B /* EFNEHotspotHelperDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		12E9154B1E70266F008B295B /* EFNEHotspotHelperDemo */ = {
+		12E915751E702F5C008B295B /* EFNEHotspotHelperDemo */ = {
 			isa = PBXGroup;
 			children = (
-				12E915671E7027CB008B295B /* EFNEHotspotHelperDemo.entitlements */,
-				12E9154F1E70266F008B295B /* AppDelegate.h */,
-				12E915501E70266F008B295B /* AppDelegate.m */,
-				12E915521E70266F008B295B /* ViewController.h */,
-				12E915531E70266F008B295B /* ViewController.m */,
-				12E915551E70266F008B295B /* Main.storyboard */,
-				12E915581E70266F008B295B /* Assets.xcassets */,
-				12E9155A1E70266F008B295B /* LaunchScreen.storyboard */,
-				12E9155D1E70266F008B295B /* Info.plist */,
-				12E9154C1E70266F008B295B /* Supporting Files */,
+				12E915901E703009008B295B /* EFNEHotspotHelperDemo.entitlements */,
+				12E915791E702F5C008B295B /* AppDelegate.h */,
+				12E9157A1E702F5C008B295B /* AppDelegate.m */,
+				12E9157C1E702F5C008B295B /* ViewController.h */,
+				12E9157D1E702F5C008B295B /* ViewController.m */,
+				12E9157F1E702F5C008B295B /* Main.storyboard */,
+				12E915821E702F5C008B295B /* Assets.xcassets */,
+				12E915841E702F5C008B295B /* LaunchScreen.storyboard */,
+				12E915871E702F5C008B295B /* Info.plist */,
+				12E915761E702F5C008B295B /* Supporting Files */,
 			);
 			path = EFNEHotspotHelperDemo;
 			sourceTree = "<group>";
 		};
-		12E9154C1E70266F008B295B /* Supporting Files */ = {
+		12E915761E702F5C008B295B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				12E9154D1E70266F008B295B /* main.m */,
+				12E915771E702F5C008B295B /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		12E915631E70269B008B295B /* Frameworks */ = {
+		12E9158D1E703009008B295B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				12E915681E702D71008B295B /* ExternalAccessory.framework */,
+				12E9158E1E703009008B295B /* ExternalAccessory.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -96,13 +96,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		12E915481E70266F008B295B /* EFNEHotspotHelperDemo */ = {
+		12E915721E702F5C008B295B /* EFNEHotspotHelperDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 12E915601E70266F008B295B /* Build configuration list for PBXNativeTarget "EFNEHotspotHelperDemo" */;
+			buildConfigurationList = 12E9158A1E702F5C008B295B /* Build configuration list for PBXNativeTarget "EFNEHotspotHelperDemo" */;
 			buildPhases = (
-				12E915451E70266F008B295B /* Sources */,
-				12E915461E70266F008B295B /* Frameworks */,
-				12E915471E70266F008B295B /* Resources */,
+				12E9156F1E702F5C008B295B /* Sources */,
+				12E915701E702F5C008B295B /* Frameworks */,
+				12E915711E702F5C008B295B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -110,19 +110,19 @@
 			);
 			name = EFNEHotspotHelperDemo;
 			productName = EFNEHotspotHelperDemo;
-			productReference = 12E915491E70266F008B295B /* EFNEHotspotHelperDemo.app */;
+			productReference = 12E915731E702F5C008B295B /* EFNEHotspotHelperDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		12E915411E70266F008B295B /* Project object */ = {
+		12E9156B1E702F5C008B295B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = EyreFree;
 				TargetAttributes = {
-					12E915481E70266F008B295B = {
+					12E915721E702F5C008B295B = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = P3X2725LYY;
 						ProvisioningStyle = Automatic;
@@ -134,7 +134,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 12E915441E70266F008B295B /* Build configuration list for PBXProject "EFNEHotspotHelperDemo" */;
+			buildConfigurationList = 12E9156E1E702F5C008B295B /* Build configuration list for PBXProject "EFNEHotspotHelperDemo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -142,55 +142,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 12E915401E70266F008B295B;
-			productRefGroup = 12E9154A1E70266F008B295B /* Products */;
+			mainGroup = 12E9156A1E702F5C008B295B;
+			productRefGroup = 12E915741E702F5C008B295B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				12E915481E70266F008B295B /* EFNEHotspotHelperDemo */,
+				12E915721E702F5C008B295B /* EFNEHotspotHelperDemo */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		12E915471E70266F008B295B /* Resources */ = {
+		12E915711E702F5C008B295B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12E9155C1E70266F008B295B /* LaunchScreen.storyboard in Resources */,
-				12E915591E70266F008B295B /* Assets.xcassets in Resources */,
-				12E915571E70266F008B295B /* Main.storyboard in Resources */,
+				12E915861E702F5C008B295B /* LaunchScreen.storyboard in Resources */,
+				12E915831E702F5C008B295B /* Assets.xcassets in Resources */,
+				12E915811E702F5C008B295B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		12E915451E70266F008B295B /* Sources */ = {
+		12E9156F1E702F5C008B295B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12E915541E70266F008B295B /* ViewController.m in Sources */,
-				12E915511E70266F008B295B /* AppDelegate.m in Sources */,
-				12E9154E1E70266F008B295B /* main.m in Sources */,
+				12E9157E1E702F5C008B295B /* ViewController.m in Sources */,
+				12E9157B1E702F5C008B295B /* AppDelegate.m in Sources */,
+				12E915781E702F5C008B295B /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		12E915551E70266F008B295B /* Main.storyboard */ = {
+		12E9157F1E702F5C008B295B /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				12E915561E70266F008B295B /* Base */,
+				12E915801E702F5C008B295B /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		12E9155A1E70266F008B295B /* LaunchScreen.storyboard */ = {
+		12E915841E702F5C008B295B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				12E9155B1E70266F008B295B /* Base */,
+				12E915851E702F5C008B295B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -198,7 +198,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		12E9155E1E70266F008B295B /* Debug */ = {
+		12E915881E702F5C008B295B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -245,7 +245,7 @@
 			};
 			name = Debug;
 		};
-		12E9155F1E70266F008B295B /* Release */ = {
+		12E915891E702F5C008B295B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -286,28 +286,26 @@
 			};
 			name = Release;
 		};
-		12E915611E70266F008B295B /* Debug */ = {
+		12E9158B1E702F5C008B295B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = EFNEHotspotHelperDemo/EFNEHotspotHelperDemo.entitlements;
 				DEVELOPMENT_TEAM = P3X2725LYY;
 				INFOPLIST_FILE = EFNEHotspotHelperDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = EFNEHotspotHelperDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		12E915621E70266F008B295B /* Release */ = {
+		12E9158C1E702F5C008B295B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = EFNEHotspotHelperDemo/EFNEHotspotHelperDemo.entitlements;
 				DEVELOPMENT_TEAM = P3X2725LYY;
 				INFOPLIST_FILE = EFNEHotspotHelperDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = EFNEHotspotHelperDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -317,25 +315,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		12E915441E70266F008B295B /* Build configuration list for PBXProject "EFNEHotspotHelperDemo" */ = {
+		12E9156E1E702F5C008B295B /* Build configuration list for PBXProject "EFNEHotspotHelperDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				12E9155E1E70266F008B295B /* Debug */,
-				12E9155F1E70266F008B295B /* Release */,
+				12E915881E702F5C008B295B /* Debug */,
+				12E915891E702F5C008B295B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		12E915601E70266F008B295B /* Build configuration list for PBXNativeTarget "EFNEHotspotHelperDemo" */ = {
+		12E9158A1E702F5C008B295B /* Build configuration list for PBXNativeTarget "EFNEHotspotHelperDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				12E915611E70266F008B295B /* Debug */,
-				12E915621E70266F008B295B /* Release */,
+				12E9158B1E702F5C008B295B /* Debug */,
+				12E9158C1E702F5C008B295B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 12E915411E70266F008B295B /* Project object */;
+	rootObject = 12E9156B1E702F5C008B295B /* Project object */;
 }

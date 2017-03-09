@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "12E915481E70266F008B295B"
+               BlueprintIdentifier = "12E915721E702F5C008B295B"
                BuildableName = "EFNEHotspotHelperDemo.app"
                BlueprintName = "EFNEHotspotHelperDemo"
                ReferencedContainer = "container:EFNEHotspotHelperDemo.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12E915481E70266F008B295B"
+            BlueprintIdentifier = "12E915721E702F5C008B295B"
             BuildableName = "EFNEHotspotHelperDemo.app"
             BlueprintName = "EFNEHotspotHelperDemo"
             ReferencedContainer = "container:EFNEHotspotHelperDemo.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12E915481E70266F008B295B"
+            BlueprintIdentifier = "12E915721E702F5C008B295B"
             BuildableName = "EFNEHotspotHelperDemo.app"
             BlueprintName = "EFNEHotspotHelperDemo"
             ReferencedContainer = "container:EFNEHotspotHelperDemo.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12E915481E70266F008B295B"
+            BlueprintIdentifier = "12E915721E702F5C008B295B"
             BuildableName = "EFNEHotspotHelperDemo.app"
             BlueprintName = "EFNEHotspotHelperDemo"
             ReferencedContainer = "container:EFNEHotspotHelperDemo.xcodeproj">
