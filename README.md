@@ -1,6 +1,6 @@
 # EFNEHotspotHelperDemo
 
-A demo show simple use of NEHotspotHelper.
+A demo show simple use of NEHotspotHelper, get WiFi information list.
 
 ## Overview
 
