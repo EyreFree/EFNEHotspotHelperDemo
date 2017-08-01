@@ -13,7 +13,7 @@ A demo show simple use of NEHotspotHelper, get WiFi information list.
 
 ## Introduction
 
-[https://www.eyrefree.org/2017/03/09/2017-03-09-NEHotspotHelper/](https://www.eyrefree.org/2017/03/09/2017-03-09-NEHotspotHelper/)
+[http://www.jianshu.com/p/14da35d0b74b](http://www.jianshu.com/p/14da35d0b74b)
 
 ## Author
 
